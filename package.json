@@ -1,0 +1,27 @@
+{
+  "name": "randomboi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxCodesDE/RandomBoi.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "FoxCodesDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxCodesDE/RandomBoi/issues"
+  },
+  "homepage": "https://github.com/FoxCodesDE/RandomBoi#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
